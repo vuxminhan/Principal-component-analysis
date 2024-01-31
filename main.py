@@ -103,3 +103,4 @@ if __name__ == '__main__':
     face_model.print_classifier_info()
     face_model.train_classifier()
     face_model.evaluate_model()
+    print('done')
